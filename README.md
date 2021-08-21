@@ -1,1 +1,1 @@
-<img src="screenshots/live_odt.gif" width="256"/> <img src="screenshots/logo-source-thin.png" width="256"/>
+<img src="screenshots/logo-source-thin.png" width="256"/>
